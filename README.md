@@ -1,7 +1,7 @@
 # Chef Prometheus Stack
 
 ## Prerequisites 
-- install Chef Workstation [chef.io]("https://www.chef.io/downloads/tools/workstation?os=debian")
+- install Chef Workstation [chef.io](https://www.chef.io/downloads/tools/workstation?os=debian)
 - install Vagrant [vagrantup.com](https://www.vagrantup.com/downloads)
 - install [VirtalBox](https://www.virtualbox.org/wiki/Linux_Downloads)
 
